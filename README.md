@@ -1,0 +1,1 @@
+This repository contains tasks for devops-college purposes.
